@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "eat all the burgers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielleshirel/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Danielle Frankel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielleshirel/burger/issues"
+  },
+  "homepage": "https://github.com/danielleshirel/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "mysql": "^2.15.0"
+  }
+}
