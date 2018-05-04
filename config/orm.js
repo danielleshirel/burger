@@ -1,5 +1,5 @@
 // APP ORM
-const connection = require('./connection').burgersDB;
+const connection = require('./connection');
 
 let tableName = "burgers";
 
